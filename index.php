@@ -227,7 +227,7 @@
                   <!-- about text -->
                   <p>I am Fragment, I am a student and I live in France. I have been developing in Java for 4 years and I am developing a lot of Minecraft plugins (Spigot / Paper / Bungeecord).</p>
                   <div class="mt-3">
-                    <a href="https://github.com/avipatilpro/" class="btn btn-default">Hire Me</a>
+                    <a href="discord.php" class="btn btn-default">Contact Me</a>
                   </div>
                   <div class="spacer d-md-none d-lg-none" data-height="30"></div>
                 </div>
@@ -614,7 +614,7 @@
 
         <footer class="footer">
           <div class="container">
-            <span class="copyright">Made with ❤️ by FragmentDev</span>
+            <span class="copyright">Made with ❤️ by <a style="color: #FFD15C;">FragmentDev</a> | <a href="https://github.com/FragDev/MyPortfolio" target="_blank" rel="noopener noreferrer" style="color: #57F287;">Github Project</a></span>
           </div>
         </footer>
 
