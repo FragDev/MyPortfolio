@@ -11,7 +11,6 @@
   <meta name="robots" content="all" />
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <link rel="shortcut icon" type="image/x-icon" href="https://avatars.githubusercontent.com/u/42278610?s=60&v=4">
-  <meta name="google-site-verification" content="OR7RUANgfQLFE0kh8qVHGga3bYoEUlRhVuj55X1qRPs" />
 
   <!-- STYLESHEETS -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
@@ -112,9 +111,12 @@
 
           <!-- buttons -->
           <div class="mt-4">
-            <a href="http://bit.ly/tgavi" target="_blank" rel="noopener noreferrer" class="btn btn-default1" style="background-color: #6517ad; background-image: linear-gradient(315deg, #06bcfb 0%, #4884ee 74%);">Meet Me !</a>
-            <a href="https://www.buymeacoffee.com/fragment" target="_blank" rel="noopener noreferrer" class="btn btn-default1" style="background-color: #fd1d1d; background-image: linear-gradient(315deg, #ff7f5f 0%, #ff5f5f 74%);">Buy me a coffee
-              !</a>
+            <div>
+              <a href="discord.php" target="_blank" rel="noopener noreferrer" class="btn btn-default1" style="background-color: #6517ad; background-image: linear-gradient(315deg, #06bcfb 0%, #4884ee 74%);">Join my Discord</a>
+            </div>
+            <div style="margin-top: 12px;">
+              <a href="https://www.buymeacoffee.com/fragment" target="_blank" rel="noopener noreferrer" class="btn btn-default1" style="background-color: #fd1d1d; background-image: linear-gradient(315deg, #ff7f5f 0%, #ff5f5f 74%);">Buy me a coffee</a>
+            </div>
           </div>
         </div>
 
