@@ -227,7 +227,7 @@
                   <!-- about text -->
                   <p>I am Fragment, I am a student and I live in France. I have been developing in Java for 4 years and I am developing a lot of Minecraft plugins (Spigot / Paper / Bungeecord).</p>
                   <div class="mt-3">
-                    <a href="discord.php" class="btn btn-default">Contact Me</a>
+                    <a href="discord.php" target="_blank" rel="noopener noreferrer" class="btn btn-default">Contact Me</a>
                   </div>
                   <div class="spacer d-md-none d-lg-none" data-height="30"></div>
                 </div>
